@@ -3,7 +3,7 @@
 
 Fits into standard 14 pin DIP socket.
 
-get sample C code for this BoB and the RP2040 on the cslammy repo, search for 33151LIB
+get sample C code for this BoB and the RP2040 on the cslammy repo (this one--the one you are on right now), search for 33151LIB
 
 Blog post about this Breakout board is here:
 https://audiodiwhy.blogspot.com/2022/11/mcp33151-14-bit-adc-breakout-board.html
