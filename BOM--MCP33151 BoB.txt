@@ -1,0 +1,38 @@
+                 
+For caps any 1206 will do, you might want to save a bit of $ buying surplus or from tayda.
+
+C1   10uF tant        C-USC1206        C1206             CAPACITOR, American symbol
+Digikey https://www.digikey.com/en/products/detail/kyocera-avx/TCJB106M025R0090/5001381
+PN   478-9407-1-ND - Cut Tape (CT)                                                                                                                                                                                                                                                                                                                                                              
+
+   ----------------       
+C2   .1uF             C-USC1206        C1206             CAPACITOR, American symbol 
+https://www.digikey.com/en/products/detail/nextgen-components/1206B104K500BD/15776047
+PN  	
+3372-1206B104K500BDTR-ND
+mfgr PN 	
+1206B104K500BD                                                                                                                                                                                                                                                                                                                                                       -------------------                     
+C3   1uF              C-USC1206        C1206             CAPACITOR, American symbol                                                                                                                                                                                                                                                                                                                                                              digikey US https://www.digikey.com/en/products/detail/kyocera-avx/1206YD105KAT2A/1605126
+pn  478-12853-1-ND - Cut Tape (CT)
+mgr #  1206YD105KAT2A
+
+             
+***ADC CHIP***                                                                                                                                                                                                                                                                                                    12                       
+IC1  MCP33151-05-E_MS MCP33151-05-E_MS SOP50P490X110-10N Analog to Digital Converters - 
+ADC 14-bit, 500 ksps, single channel, 
+single-ended SAR ADC Analog to Digital Converters - ADC 14-bit, 500 ksps, 
+single channel, single-ended SAR ADC 1.1mm  Microchip         MCP33151-05-E/MS  
+       
+579-MCP33151-05-E/MS https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP33151-05-E-MS?qs=T3oQrply3y%252BD0A%2FnRLKX1g%3D%3D   
+
+Digikey in US,  PN for this IC: 10270358 
+https://www.digikey.com/en/products/detail/microchip-technology/MCP33151-10-E-MS/10270358
+
+
+***1.8V regulator for Analog power****
+
+IC2  mcP1700CM          MCP1700INLINE    TO92-INLINE       VOLTAGE REGULATOR  1.8V     
+Digikey US https://www.digikey.com/en/products/detail/microchip-technology/MCP1700-1802E-TO/652675?s=N4IgjCBcpgbFoDGUBmBDANgZwKYBoQB7KAbRABYwBmKgBnJAF0CAHAFyhAGU2AnASwB2AcxABfAmADsUgJwIQySOmz4ipELDBgArFSasOkbnyGiJIALRSFSlbgIA3QakwP1kMnVq0qeXbQGIOyc4mJiQA
+Digikey US PN  	
+MCP1700-1802E/TO-ND                                                                                                                                                                                                                                                                                                                                                                              
+                
